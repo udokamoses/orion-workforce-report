@@ -52,14 +52,15 @@ This section summarizes the major insights derived from the SQL queries executed
 - Some countries account for a disproportionately higher share of total salary expenditure.
 
 ### Workforce Gaps
-The analysis identified job roles that currently have no employees assigned, signaling potential hiring gaps or deprecated roles within the organization. The analysis therefore, showed they were no vacant roles.
+- The analysis did not identify any workforce gaps at the job role level.
+- All job roles listed in the jobs table have at least one employee currently assigned.
+- This indicates that the organization’s defined job roles are actively staffed and operational at the time of analysis.
 
 ## Recommendations
 Based on the SQL analysis, the following recommendations are proposed:
 - Review departments with exceptionally high or low headcounts to ensure optimal workforce allocation.
 - Conduct deeper evaluation of high-paying job roles to assess return on investment and succession planning.
 - Monitor salary concentration by country to manage labor costs effectively.
-- Investigate job roles without assigned employees to determine whether recruitment or role restructuring is required.
 
 ## Link
 [SQL Script](https://github.com/udokamoses/orion-workforce-report/blob/main/moses_udoka.sql)
