@@ -37,7 +37,7 @@ This section summarizes the major insights derived from the SQL queries executed
 
 ### Workforce Distribution
 - Employee counts vary significantly across departments, highlighting uneven workforce allocation.
-- One department emerged as the largest by headcount, indicating higher operational demand or scope.
+- Shipping department emerged as the largest by headcount, indicating higher operational demand or scope.
 
 ### Salary Structure & Bands
 - Average salary analysis revealed clear differences in compensation across departments and job roles.
@@ -45,7 +45,7 @@ This section summarizes the major insights derived from the SQL queries executed
 
 ### High Earners & Job Roles
 - A subset of employees earn above the company-wide average salary, typically associated with specialized or senior job roles.
-- Certain job titles recorded average salaries above 12,000, indicating high-value positions within the company.
+- President, Admin Vice-President, Sales Manager and Marketing Manager recorded average salaries above 12,000, indicating high-value positions within the company.
 
 ### Geographic Salary Footprint
 - Total salary costs vary by country, reflecting differences in workforce size and compensation levels.
