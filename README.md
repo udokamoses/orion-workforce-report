@@ -62,6 +62,6 @@ Based on the SQL analysis, the following recommendations are proposed:
 - Investigate job roles without assigned employees to determine whether recruitment or role restructuring is required.
 
 ## Link
-[SQL Script](https://github.com/udokamoses/orion-workforce-report/main/moses_udoka.sql)
+[SQL Script](https://github.com/udokamoses/orion-workforce-report/blob/main/moses_udoka.sql)
 
 
